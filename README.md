@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Futuro da IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Breve comentário sobre a utilização da IA e um convite para o futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID: Criação do Avatar
+HeyGen: Videos
+Gemini: Roteiro
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o D-ID para transformar um personagem de anime que gosto em "humano"
+Utilizei o Gemini para criar um breve roteiro e o Heygen para criar o vídeo
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Hoje em dia IA não é mais um simples "facilitador" deve ser utilizado com cautela e sabedoria, mesmo que para as coisas mais básicas. Tudo que vai para internet, nunca se perde.
 ```
 
 ### Exemplos e Insigths
